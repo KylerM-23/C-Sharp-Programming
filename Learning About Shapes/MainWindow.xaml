@@ -1,0 +1,42 @@
+﻿<Window x:Class="Learning_About_Shapes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Learning_About_Shapes"
+        mc:Ignorable="d"
+        Title="Learning About Shapes" Height="450" Width="810">
+    <Grid x:Name="Background" Background="White">
+        <Grid x:Name="Home_Page" Visibility="Hidden">
+            <TextBlock HorizontalAlignment="Left" Margin="0,29,0,0" TextWrapping="Wrap" Text="Welcome To Learning About Shapes" VerticalAlignment="Top" Height="64" Width="792" FontSize="35" TextAlignment="Center"/>
+            <TextBlock HorizontalAlignment="Left" Margin="239,98,0,0" TextWrapping="Wrap" Text="Click On A Button To Learn About That Type Of Shape" VerticalAlignment="Top" Height="79" Width="314" FontSize="25" TextAlignment="Center"/>
+            <Button x:Name="Tri_Button" Content="Triangle" HorizontalAlignment="Left" Margin="486,326,0,0" VerticalAlignment="Top" Width="104" FontSize="20" Click="Tri_Button_Click"/>
+            <Button x:Name="Par_Button" Content="Parallelogram" HorizontalAlignment="Left" Margin="52,250,0,0" VerticalAlignment="Top" Width="142" FontSize="20" Click="Par_Button_Click"/>
+            <Button x:Name="Eli_Button" Content="Ellipse" HorizontalAlignment="Left" Margin="194,326,0,0" VerticalAlignment="Top" Width="116" FontSize="20" Click="Eli_Button_Click"/>
+            <Button x:Name="RP_Button" Content="Regular Polygon" HorizontalAlignment="Left" Margin="314,250,0,0" VerticalAlignment="Top" Width="164" FontSize="20" Click="RP_Button_Click"/>
+            <Button x:Name="Tra_Button" Content="Trapezoid" HorizontalAlignment="Left" Margin="589,250,0,0" VerticalAlignment="Top" Width="140" FontSize="20" Click="Tra_Button_Click"/>
+        </Grid>
+        <Grid x:Name="Inf_Page" Visibility="Visible">
+            <Image x:Name="Image1" Margin="557,33,23,244" Source="Para.png" Stretch="Fill"/>
+            <TextBlock x:Name="Info_Block" HorizontalAlignment="Left" Margin="21,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="290" Width="280" FontSize="15" Text="Text"/>
+            <TextBox x:Name="tbox1" HorizontalAlignment="Left" Height="23" Margin="417,58,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontSize="15"/>
+            <TextBox x:Name="tbox2" HorizontalAlignment="Left" Height="23" Margin="417,111,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontSize="15"/>
+            <TextBox x:Name="tbox3" HorizontalAlignment="Left" Height="23" Margin="417,162,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontSize="15"/>
+            <TextBlock x:Name="db1" HorizontalAlignment="Left" Margin="381,312,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" RenderTransformOrigin="0.672,0.604" FontSize="15"/>
+            <TextBlock x:Name="db2" HorizontalAlignment="Left" Margin="615,312,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="15"/>
+            <Button x:Name="b1_Button" Content="Square" HorizontalAlignment="Left" Margin="122,363,0,0" VerticalAlignment="Top" Width="75" FontSize="15" Click="b1_Button_Click"/>
+            <Button x:Name="b2_Button" Content="Rectangle" HorizontalAlignment="Left" Margin="218,363,0,0" VerticalAlignment="Top" Width="75" FontSize="15" Click="b2_Button_Click"/>
+            <Button x:Name="GH_Button" Content="Go Home" HorizontalAlignment="Left" Margin="21,363,0,0" VerticalAlignment="Top" Width="75" FontSize="15" Click="GH_Button_Click"/>
+            <Button x:Name="GenData_button" Content="Generate Data
+                    " HorizontalAlignment="Left" Margin="615,211,0,0" VerticalAlignment="Top" Width="104" FontSize="15" Click="GenData_button_Click"/>
+            <TextBlock x:Name="l1" Text="a" HorizontalAlignment="Left" Margin="367,54,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.398,0.349"/>
+            <TextBlock x:Name="l2" Text="h" HorizontalAlignment="Left" Margin="366,111,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="1.342,0.57"/>
+            <TextBlock x:Name="l3" Text="b" HorizontalAlignment="Left" Margin="366,165,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.256,-0.129"/>
+            <TextBox x:Name="tbox4" HorizontalAlignment="Left" Height="23" Margin="417,218,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontSize="15"/>
+            <TextBlock x:Name="l4" Text="b" HorizontalAlignment="Left" Margin="366,221,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.914,2.256"/>
+            <TextBox x:Name="tbox5" HorizontalAlignment="Left" Height="23" Margin="417,269,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" FontSize="15"/>
+            <TextBlock x:Name="l5" Text="b" HorizontalAlignment="Left" Margin="366,269,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.914,2.256"/>
+
+        </Grid>
+    </Grid>
+</Window>

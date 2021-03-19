@@ -1,0 +1,15 @@
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.csprojAssemblyReference.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\App.g.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes_MarkupCompile.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes_MarkupCompile.lref
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\bin\Debug\Learning About Shapes.exe.config
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\bin\Debug\Learning About Shapes.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\bin\Debug\Learning About Shapes.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\MainWindow.baml
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.g.resources
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning_About_Shapes.Properties.Resources.resources
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.csproj.GenerateResource.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\Learning About Shapes\obj\Debug\Learning About Shapes.pdb

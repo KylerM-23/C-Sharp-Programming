@@ -1,0 +1,13 @@
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.csprojAssemblyReference.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.AssemblyInfoInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.AssemblyInfo.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.csproj.CoreCompileInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.deps.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.runtimeconfig.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.runtimeconfig.dev.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\bin\Debug\netcoreapp3.1\Exercise 4- EulersMethod.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Exercise 4- EulersMethod\obj\Debug\netcoreapp3.1\Exercise 4- EulersMethod.genruntimeconfig.cache
