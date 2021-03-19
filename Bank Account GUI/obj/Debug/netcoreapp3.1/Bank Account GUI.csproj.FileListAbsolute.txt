@@ -1,0 +1,19 @@
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.deps.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.runtimeconfig.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.runtimeconfig.dev.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\bin\Debug\netcoreapp3.1\Bank Account GUI.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.csprojAssemblyReference.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI_MarkupCompile.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI_MarkupCompile.lref
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.g.resources
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.AssemblyInfoInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.AssemblyInfo.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.csproj.CoreCompileInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Bank Account GUI\obj\Debug\netcoreapp3.1\Bank Account GUI.genruntimeconfig.cache

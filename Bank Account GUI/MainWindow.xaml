@@ -1,0 +1,50 @@
+﻿<Window x:Class="Bank_Account_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bank_Account_GUI"
+        mc:Ignorable="d"
+        Title="Bank Account" Height="450" Width="800">
+
+    <Grid x:Name="Background_Page" Background="Black" Visibility="Visible">
+        <Grid x:Name="Home_Page" Background="Black" Visibility="Hidden">
+            <TextBlock x:Name="Intro_Text" HorizontalAlignment="Center" Margin="0,30,0,0" Text="Welcome to Bank Account Simulator 9000. Please choose an action to continue." TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="492" TextAlignment="Center"/>
+            <Button x:Name="D_B" Content="Deposit Money" HorizontalAlignment="Left" Margin="50,244,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="Deposit_Click"/>
+            <Button x:Name="DD_B" Content="Display Data" HorizontalAlignment="Left" Margin="266,347,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="Display_Data_Click"/>
+            <Button x:Name="W_B" Content="Withdraw Money" HorizontalAlignment="Left" Margin="460,244,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="Withdraw_Click"/>
+            <Button x:Name="CA_B" Content="Create New Account" HorizontalAlignment="Left" Margin="266,137,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="CA_B_Click"/>
+        </Grid>
+        <Grid x:Name="NewAccount_Page" Background="Black" Visibility="Hidden">
+            <TextBlock x:Name="NewAccountText" HorizontalAlignment="Center" Margin="0,30,0,0" Text="Please fill in the form and hit Generate Account when ready." TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="492" TextAlignment="Center"/>
+            <TextBlock x:Name="AccountTypeText" HorizontalAlignment="Left" Margin="487,260,0,0" Text="Account Type:" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="290" TextAlignment="Center" OpacityMask="Lime"/>
+            <Button x:Name="GA_B" Content="Generate Account" HorizontalAlignment="Left" Margin="266,347,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="GA_B_Click"/>
+            <TextBox x:Name="B_TB" HorizontalAlignment="Left" Margin="70,258,0,0" Text="Enter Initial Balance Here" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Background="Black" BorderBrush="Lime" Foreground="Lime" FontSize="25" TextAlignment="Center"/>
+            <TextBox x:Name="ID_TB" HorizontalAlignment="Left" Margin="70,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Background="Black" BorderBrush="Lime" Foreground="Lime" FontSize="25" TextAlignment="Center" Text="Enter 9 Character ID Here"/>
+            <Button x:Name="CAT_B" Content="Change Account Type" HorizontalAlignment="Left" Margin="487,164,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Background="Black" Foreground="Lime" BorderBrush="Lime" Click="CAT_Click"/>
+
+        </Grid>
+
+        <Grid x:Name="Deposit_Page" Background="Black" Visibility="Hidden">
+            <TextBlock x:Name="DepositText" HorizontalAlignment="Center" Margin="0,30,0,0" Text="Please fill in the form and hit Deposit Funds when ready." TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="492" TextAlignment="Center"/>
+            <Button x:Name="DM_B" Content="Deposit Funds" HorizontalAlignment="Left" Margin="452,197,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Foreground="Lime" BorderBrush="Lime" Click="DM_B_Click" Background="{x:Null}"/>
+            <TextBox x:Name="DM_TB" HorizontalAlignment="Left" Margin="41,197,0,0" Text="Enter Deposit Amount Here" TextWrapping="Wrap" VerticalAlignment="Top" Width="345" Background="Black" BorderBrush="Lime" Foreground="Lime" FontSize="25" TextAlignment="Center" Height="53"/>
+
+        </Grid>
+
+        <Grid x:Name="Withdraw_Page" Background="Black" Visibility="Hidden">
+            <TextBlock x:Name="WithdrawText" HorizontalAlignment="Center" Margin="0,30,0,0" Text="Please fill in the form and hit Withdraw Funds when ready." TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="492" TextAlignment="Center"/>
+            <Button x:Name="WM_B" Content="Withdraw Funds" HorizontalAlignment="Left" Margin="452,197,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Foreground="Lime" BorderBrush="Lime" Click="WM_B_Click" Background="{x:Null}"/>
+            <TextBox x:Name="WM_TB" HorizontalAlignment="Left" Margin="41,197,0,0" Text="Enter Withdraw Amount Here" TextWrapping="Wrap" VerticalAlignment="Top" Width="345" Background="Black" BorderBrush="Lime" Foreground="Lime" FontSize="25" TextAlignment="Center" Height="53"/>
+
+        </Grid>
+
+        <Grid x:Name="Display_Page" Background="Black" Visibility="Hidden">
+            <TextBlock x:Name="DisplayText" HorizontalAlignment="Center" Margin="0,30,0,0" Text="Text Will Update Shortly." TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Lime" FontSize="25" Width="492" TextAlignment="Center"/>
+            <Button x:Name="GoBack_B" Content="Return To Home Page" HorizontalAlignment="Center" Margin="0,307,0,0" VerticalAlignment="Top" FontSize="25" Height="53" Width="290" Foreground="Lime" BorderBrush="Lime" Click="GH_B_Click" Background="{x:Null}" RenderTransformOrigin="-0.028,1.095"/>
+
+        </Grid>
+    </Grid>
+
+
+</Window>
