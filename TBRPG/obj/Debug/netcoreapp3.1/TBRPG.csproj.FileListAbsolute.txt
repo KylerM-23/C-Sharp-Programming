@@ -1,0 +1,13 @@
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.deps.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.runtimeconfig.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.runtimeconfig.dev.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\bin\Debug\netcoreapp3.1\TBRPG.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.csprojAssemblyReference.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.AssemblyInfoInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.AssemblyInfo.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.csproj.CoreCompileInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\1_HW\TBRPG\obj\Debug\netcoreapp3.1\TBRPG.genruntimeconfig.cache
