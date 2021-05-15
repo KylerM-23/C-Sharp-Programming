@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Final_Kyler_Martinez/1.0.0": {
+        "runtime": {
+          "Final_Kyler_Martinez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final_Kyler_Martinez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

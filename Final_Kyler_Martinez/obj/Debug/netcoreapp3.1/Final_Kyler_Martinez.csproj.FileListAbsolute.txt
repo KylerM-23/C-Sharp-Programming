@@ -1,0 +1,13 @@
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.exe
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.deps.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.runtimeconfig.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.runtimeconfig.dev.json
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\bin\Debug\netcoreapp3.1\Final_Kyler_Martinez.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.csprojAssemblyReference.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.AssemblyInfoInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.AssemblyInfo.cs
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.csproj.CoreCompileInputs.cache
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.dll
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.pdb
+C:\Users\Kyler Martinez\Desktop\ECE2310\Final_Kyler_Martinez\obj\Debug\netcoreapp3.1\Final_Kyler_Martinez.genruntimeconfig.cache
